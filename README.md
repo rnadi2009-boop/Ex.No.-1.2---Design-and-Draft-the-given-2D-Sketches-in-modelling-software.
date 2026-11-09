@@ -36,8 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- <img width="1536" height="1024" alt="CSE Mechanical Flange Technical Drawing" src="https://github.com/user-attachments/assets/7393e56b-339b-4ed6-a9d5-6b0b2a056734" />
+ <img width="1035" height="737" alt="Screenshot 2026-11-09 173351" src="https://github.com/user-attachments/assets/bb6bf4f5-adaf-4c14-b682-ce8ed61ac21d" />
 
- 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
